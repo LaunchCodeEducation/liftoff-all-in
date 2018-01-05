@@ -3,4 +3,6 @@ title: Assignment Repository Setup
 currentMenu: assignments
 ---
 
-Set up the repository that you will use to submit most assignments for this course by following the directions in the [main README](https://github.com/launchcodeeducation/liftoff-assignments) of the `LaunchCodeEducation/liftoff-assignments` repo.
+If you do not already have a GitHub account, create an account that you will use to collaborate with your team members to collaborate on your group project. [GitHub](https://github.com/)
+
+Take this [GitHub Tutorial](https://guides.github.com/activities/hello-world/) and spend some time getting to know the ins and outs of version control.
