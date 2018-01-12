@@ -6,9 +6,7 @@ currentMenu: classes
 | Table of Contents |
 |---|
 | [Career Module](#career-module) |
-| **Project** |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Module](#project-module) |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Assignment](#project-assignment) |
+| [Project Module](#project-module) |
 
 ## Career Module
 
@@ -39,7 +37,7 @@ We discussed multiple ways of continuing to learn as a developer including:
 - Introduce yourself
 - What do they specialize in?
 - What part of programming do they like the most?
-- How much time do they **know** they commit to the project?
+- How much time do they **know** they can commit to the project?
 
 ### Group Discussion
 
@@ -107,10 +105,3 @@ Backing up your work
 ##### Committing to the project
 - Compare and contrast good vs bad team behavior
 - Commit to your project as future professionals
-
-## Project Assignment
-
-### Project Outline
-Everyone participating in Liftoff: All-In&lt;tech> is participating in a group project. Although ultimately your group will only produce one project, we want everyone to pitch a project and create an outline to present to their group and Teaching Fellow. You will then vote as a group on the project you want to develop during the program.
-
-Reference our [project outline assignment](..assignments/project-outline/) for planning your project.
