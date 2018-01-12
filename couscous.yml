@@ -3,21 +3,26 @@ template:
     # directory: ../Template-Light
 
 # Base URL of the published website
-baseUrl: http://education.launchcode.org/liftoff
+baseUrl: https://education.launchcode.org/liftoff-all-in
 
 # Used to link to the GitHub project
 github:
     user: LaunchCodeEducation
-    repo: liftoff
+    repo: liftoff-all-in
 
+<<<<<<< HEAD
 metaTitle: 'LaunchCode Education'
 siteTitle: 'Liftoff: All-In<Tech>'
+=======
+metaTitle: All In
+siteTitle: 'Liftoff'
+>>>>>>> 35f08fc20c2a5eb888ded2f8d20beba2326c8d91
 
 # Google Custom Search Engine ID
-cseId: 014657181352409571810:5yrfckio__c
+cseId: 
 
 # Google Analytics ID
-gaId: UA-78748330-10
+gaId: 
 
 homeBg: ed-splash-3.png
 
