@@ -3,7 +3,6 @@ title: 'Classes'
 currentMenu: classes
 ---
 
-<<<<<<< HEAD
 Week | Prep Work | In Class | Career Module (Tuesdays) | Project Module (Thursdays) | Objectives
 -----|-----------|----------|---------|---------------------------------
 1 | [Prep Work](../class-prep/1/) | [In Class](../classes/1/) | **Topic:** <br>Goal Role Clarity: Exploring Different Technical Jobs<br>| **Topic:** <br>*None* (Focus on project!)<br>**Assignment:** | [Objectives](../objectives/#class-1)
@@ -33,6 +32,6 @@ Week | Prep Work | In Class | Career Module (Tuesdays) | Project Module (Thursda
 10 | [Prep Work](../class-prep/6/) | [In Class](../classes/6/) | **Topic:** <br>Interview Soft Skills <br>**Assignment:** <br>[STAR out your Interviews]() | |
 11 | [Prep Work](../class-prep/6/) | [In Class](../classes/6/) | **Topic:** <br>Ticketing Systems & Internal Team Communication\* <br> | |
 12 | [Prep Work](../class-prep/6/) | [In Class](../classes/6/) | **Topic:** <br>Mock Interviews\* <br>**Assignment:** <br>[Mock Interview](../assignments/mock-intervew/) | |
->>>>>>> 75ab3ca59110a8a39297ced602bdc9812c43c0de
+
 
 *Presented by an Expert in the Field
