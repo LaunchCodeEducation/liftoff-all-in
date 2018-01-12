@@ -12,7 +12,7 @@ currentMenu: classes
 | Table of Contents |
 |---|
 | [Career Module: Resume and Portfolio Development](#career-module-resume-and-portfolio-development) |
-| [Project Module: Project Process and Tools](#project-module-project-planning-and-setup) |
+| [Project Module: Project Setup and Planning](#project-module-project-setup-and-planning) |
 
 ## Career Module: Resume and Portfolio Development
 
@@ -38,7 +38,7 @@ There are 2 components to think about when developing your resume and portfolio.
     <br>
         *Personal Website* - If you are a web developer, it's essential to have a personal website to showcase your skills and as a marketing aid. Start simple and add to it as you have time. The key is to make this professional. The best personal websites are set up as if they are freelancers and this is their business site. They may be trying to attract clients but employers will respond the same if they like what they see.
 
-## Project Module: Project Planning and Setup
+## Project Module: Project Setup and Planning
 
 ### Pitch Your Ideas
 
