@@ -1,22 +1,23 @@
 ---
-title: Live Coding
+title: polish your resume
 currentMenu: assignments
 ---
 
-For this assignment, you will be required to successfully complete a live coding session with your mentor or LaunchCode staff member. The mentor or staff member will be grading you on your ability to work through the steps, communicate effectively, and work towards solving the problem.
+For this assignment, you are required to create a final draft of your resume and submit it in Canvas. A LaunchCode coach will then look over your resume and provide feedback. If we feel it's necessary, we will invite you to a personal coaching session to provide additional advice.
 
-## Scheduling Time
+## Creating a Final Resume Guidelines
 
-Time will be allocated in class 4, however you are more than welcome to attempt this assignment multiple times. If you want ot take a second, or third, etc attempt please talk to your Mentor who can find a time, or can connect you with a volunteer.
+Use your rough draft as a starting point. Remember to create the 5 sections as outlined in the workshop.
+1. Header
+2. Technical Skills
+3. Projects
+4. Education
+5. Work Experience
 
-## Practice Makes Perfect
+Formatting Guidelines: Stick with no less than 11pt font for the body, no more than 14pt for section headers, no less than .5" top/bottom margins, no less than .65" left/right margins, avoid using columns - keep it linear and reading left to right.
 
-We recommend practicing live coding before attempting this assignment. We will work on live coding twice throughout the Liftoff program in class, but if you would like more practice check out these free websites to find more problems:
+Submit your resume in Word or Google Docs format so we can make suggestions easily within the document.
 
-- https://www.hackerrank.com/
-- https://leetcode.com/
-- http://exercism.io/
-- https://checkio.org/
+## Verify your Social Presence
 
-## Check your grade!
-Your Mentor will mark you as complete in Canvas when you complete the exercise. But it is still your responsiblity to double check beofre the class ends.
+Triple check that all links and accounts are in working order. Make sure your LinkedIn matches your resume (we will be doing a deeper dive into LinkedIn in another workshop as well). Clean up your GitHub and start working on those README files for your projects.
