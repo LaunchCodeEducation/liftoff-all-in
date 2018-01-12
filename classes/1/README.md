@@ -58,7 +58,7 @@ Your first batch of user stories can be challenging. This is not uncommon and al
 
 Follow these simple steps to writing a user stories and you'll be writing them like a pro in no time:
 
-#### As a [role], I can [feature] so that [reason]
+##### As a [role], I can [feature] so that [reason]
 
 Following this simple pattern makes writing user stories easy and manageable.
 
@@ -80,7 +80,7 @@ The theory is simple – if you use any larger than a 3″ x 5″ index card you
 
 User stories are suppose to be short and sweet. They are suppose to aid in further communication and not to tell the entire long-winded version of the story. Sticking to these physical constraints will help.
 
-#### Make it testable with acceptance stories
+##### Make it testable with acceptance stories
 
 Write out any of your acceptance tests using this template:
 
@@ -104,7 +104,7 @@ Again, keep user stories small to only allow enough scope so that all of my acce
 
 If your user story has more than 3-4 acceptance stories, really analyze the story and see if it makes sense to break it down even further so you can fit all its acceptance tests on the back of the card. Doing so might help you break down those larger stories into more digestible pieces.
 
-#### Connect the dots
+##### Connect the dots
 
 Write out all the possible user stories you can currently think of. I guarantee that you will be missing some of the project scope; however with a little luck, you will be able to connect the dots and see the entire project picture.
 
