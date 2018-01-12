@@ -5,16 +5,25 @@ currentMenu: classes
 
 ## Sections
 
+- [Career Module: Resume and Portfolio Development](#career-module-resume-and-portfolio-development)
 - [Project Module: Project Process and Tools](#project-module-project-process)
-- [Career Module: Live Coding One](#career-module-live-coding-one)
 
-## Career Module: Live Coding One
+## Career Module: Resume and Portfolio Development
 
-Today's career module in class activity has two parts.
+There are 2 components to think about when developing your resume and portfolio.
 
-1. Your group will walk through a live coding problem together under the supervision of your mentor. You will need to go through all the steps, and find a solution to the problem. This is a chance for you to ask questions, and learn from your fellow classmates.
+**The Resume**<br>
+      Creating a technical resume for your first programming job works a little differently than typical resumes. Typically we include 5 sections: a header, technical skills, projects, education, and work experience. The order of these sections depends a little bit on your work experience and education but the key rule of thumb is that technical skills should _always_ be at the top. You want employers to immediately see your skills so they are enticed to read more!
 
-2. You will be paried with someone in a different group that worked on a different problem. In your pair you will take turns practicing a live coding session. One of you will act as the interviewer, and one of you will attempt to solve the problem as the interviewee. After working through the problem you will switch roles.
+
+**Your Online Presence**<br>
+        *Code Repositories* - employers want to see your code and projects. GitHub is a great way to show them your work and an easy way to reference the code for the projects you showcase on your resume by including a direct link.
+    <br>
+        *LinkedIn* - Be sure to keep your LinkedIn account current with your resume. Unexplained inconsistencies can set off red flags to employers. We will go more in depth on how to setup a professional LinkedIn profile in a future workshop.
+    <br>
+        *Personal Website* - If you are a web developer, it's essential to have a personal website to showcase your skills and as a marketing aid. Start simple and add to it as you have time. The key is to make this professional. The best personal websites are set up as if they are freelancers and this is their business site. They may be trying to attract clients but employers will respond the same if they like what they see.
+
+
 
 ## Project Module: Project Process and Tools
 
