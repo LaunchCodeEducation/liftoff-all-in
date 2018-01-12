@@ -5,8 +5,8 @@ currentMenu: classes
 
 Week | Prep Work | In Class | Career Module (Tuesdays) | Project Module (Thursdays) | Objectives
 -----|-----------|----------|---------|---------------------------------
-1 | [Prep Work](../class-prep/1/) | [In Class](../classes/1/) | **Topic:** <br>Goal Role Clarity: Exploring Different Technical Jobs<br>| **Topic:** <br>*None* (Focus on project!)<br>**Assignment:** | [Objectives](../objectives/#class-1)
-2 | [Prep Work](../class-prep/2/) | [In Class](../classes/2/) | **Topic:** <br>Resumes and Portfolios <br>**Assignment:** <br>[Polish your Resume](https://blog.launchcode.org/crafting-the-perfect-it-resume/) | **Topic:** <br>*None* (Focus on project!)<br>**Assignment:** <br>|   [Objectives](../objectives/#class-2)
+1 | [Prep Work](../class-prep/1/) | [In Class](../classes/1/) | **Topic:** <br>Goal Role Clarity: Exploring Different Technical Jobs<br>| **Topic:** <br>Components of a Successful Group Project<br>**Assignment:** <br>[Project Outline](../assignments/project-outline/) | [Objectives](../objectives/#class-1)
+2 | [Prep Work](../class-prep/2/) | [In Class](../classes/2/) | **Topic:** <br>Resumes and Portfolios <br>**Assignment:** <br>[Polish your Resume](https://blog.launchcode.org/crafting-the-perfect-it-resume/) | **Topic:** <br>*None* (Focus on project!)<br>**Assignment:** <br>[Project Planning](../assignments/planning/) |   [Objectives](../objectives/#class-2)
 3 | [Prep Work](../class-prep/3/) | [In Class](../classes/3/) | **Topic:** <br>Test Driven Development\* <br>| **Topic:** <br>*None* (Focus on project!)<br>**Assignment:** <br>|  [Objectives](../objectives/#class-3)
 4 | [Prep Work](../class-prep/4/) | [In Class](../classes/4/) | **Topic:** <br>Business Etiquette  | **Topic:** <br>*None* (Focus on project!)<br>**Assignment:** <br>|  [Objectives](../objectives/#class-4)
 5 | [Prep Work](../class-prep/5/) | [In Class](../classes/5/) | **Topic:** <br>Process Management Styles\* <br>| **Topic:** <br>*None* (Focus on project!)<br>**Assignment:** <br>|  [Objectives](../objectives/#class-5)
