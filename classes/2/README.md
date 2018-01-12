@@ -74,8 +74,4 @@ If your user story has more than 3-4 acceptance stories, really analyze the stor
 **Connect the dots**<br>
 Write out all the possible user stories you can currently think of. I guarantee that you will be missing some of the project scope; however with a little luck, you will be able to connect the dots and see the entire project picture.
 
-[Group Project Outline](../assignments/project-outline/)
-
-[Project Planning](../assignments/planning/)
-
 [Project Setup](../assignments/project-setup/)
