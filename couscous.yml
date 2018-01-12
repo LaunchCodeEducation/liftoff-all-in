@@ -10,13 +10,11 @@ github:
     user: LaunchCodeEducation
     repo: liftoff-all-in
 
-<<<<<<< HEAD
 metaTitle: 'LaunchCode Education'
 siteTitle: 'Liftoff: All-In<Tech>'
 =======
 metaTitle: All In
 siteTitle: 'Liftoff'
->>>>>>> 35f08fc20c2a5eb888ded2f8d20beba2326c8d91
 
 # Google Custom Search Engine ID
 cseId: 
