@@ -5,8 +5,8 @@ currentMenu: classes
 
 Week | Prep Work | In Class | Career Module (Tuesdays) | Project Module (Thursdays)
 -----|-----------|----------|---------
-1 | [Prep Work](../class-prep/1/) | [In Class](../classes/1/) | **Topic:** <br>Goal Role Clarity: Exploring Different Technical Jobs<br>| **Topic:** <br>Components of a Successful Group Project<br>**Assignment:** <br>[Project Outline](../assignments/project-outline)
-2 | [Prep Work](../class-prep/2/) | [In Class](../classes/2/) | **Topic:** <br>Resumes and Portfolios <br>**Assignment:** <br> [Polish your Resume](../assignments/resumes) | **Topic:** <br>Project Setup and Planning<br>**Assignment:** <br>[Project Setup](../assignments/project-setup)<br>[Project Planning](../assignments/project-planning)
+1 | [Prep Work](../class-prep/1/) | [In Class](../classes/1/) | **Topic:** <br>Goal Role Clarity: Exploring Different Technical Jobs<br>| **Topic:** <br>Components of a Successful Group Project<br>**Assignment:** <br>[Project Concept](../assignments/project-concept)
+2 | [Prep Work](../class-prep/2/) | [In Class](../classes/2/) | **Topic:** <br>Resumes and Portfolios <br>**Assignment:** <br> [Polish your Resume](../assignments/resumes) | **Topic:** <br>Project Setup and Planning<br>**Assignment:** <br>[GitHub Repository Setup](../assignments/project-github-repository-setup)<br>[Design and User Stories](../assignments/project-designs-and-user-stories)
 3 | <span style="display:none">[Prep Work](../class-prep/3/) </span>|<span style="display:none"> [In Class](../classes/3/)</span> | **Topic:** <br>Test Driven Development\* <br>| **Topic:** <br>Deploying and Testing Your App<br>**Assignment:** <br>Schedule regular app testing
 4 | <span style="display:none">[Prep Work](../class-prep/4/)</span> |<span style="display:none"> [In Class](../classes/4/)</span> | **Topic:** <br>Business Etiquette  | **Topic:** <br>*None* (Focus on project!)<br>
 5 | <span style="display:none">[Prep Work](../class-prep/5/) </span>| <span style="display:none">[In Class](../classes/5/)</span> | **Topic:** <br>Process Management Styles\* <br>| **Topic:** <br>*None* (Focus on project!)
