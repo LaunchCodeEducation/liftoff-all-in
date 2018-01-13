@@ -1,5 +1,5 @@
 ---
-title: Project Setup
+title: Project Code Setup
 currentMenu: assignments
 ---
 
@@ -10,8 +10,8 @@ This assignment will get you set up and rolling with a basic project. By the end
 The objectives for this assignment are simple to state:
 
 - Create a GitHub repository for your project, which includes a license
-- Make an intial commit that includes a basic, working "hello world" level project
-- Start working on your first user story
+- Make an initial commit that includes a basic, working "hello world" level project
+- Setup the project tab for tracking your tasks
 
 There are some situation-specific tips below. If you have questions about getting started on your project that are not covered here, talk to your mentor or an instructor.
 
@@ -32,9 +32,3 @@ Revisit [lesson videos](http://education.launchcode.org/skills-back-end-csharp/v
 
 - [Intro to ASP.NET Core MVC: Controllers](http://education.launchcode.org/skills-back-end-csharp/videos/intro-to-mvc-controllers/) - for creating a basic, "hello world" application
 - [Intro to Visual Studio](http://education.launchcode.org/skills-back-end-csharp/videos/intro-to-visual-studio/) - for connecting your local Git repository to a GitHub repository
-
-## Submitting Your Work
-
-Within your `liftoff-assigments` repository, open up `project_03/README.md`. Using Markdown formatting, add a link to your project repository. Then, stage, commit, and push your changes.
-
-Once you have finished both wireframe and user story components, commit and push your changes to your `liftoff-assignments` repository, and submit the assignment on Canvas by submitting the URL to your outline. Your mentor will provide feedback after the assignment deadline.
