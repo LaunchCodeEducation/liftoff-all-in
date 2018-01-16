@@ -12,14 +12,12 @@ github:
 
 metaTitle: 'LaunchCode Education'
 siteTitle: 'Liftoff: All-In<Tech>'
-metaTitle: All In
-siteTitle: 'Liftoff'
 
 # Google Custom Search Engine ID
-cseId: 
+cseId:
 
 # Google Analytics ID
-gaId: 
+gaId:
 
 homeBg: ed-splash-3.png
 
@@ -29,21 +27,3 @@ menu:
         classes:
             text: Classes
             relativeUrl: classes/
-        articles:
-            text: Articles
-            relativeUrl: articles/
-        assignments:
-            text: Assignments
-            relativeUrl: assignments/
-        videos:
-            text: Videos
-            relativeUrl: videos/
-        objectives:
-            text: Objectives
-            relativeUrl: objectives/
-        issues:
-            text: Issues
-            relativeUrl: issues/
-        about:
-            text: About this Unit
-            relativeUrl: about/
