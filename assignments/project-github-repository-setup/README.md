@@ -35,4 +35,4 @@ Revisit [lesson videos](http://education.launchcode.org/skills-back-end-csharp/v
 
 ## Submitting Your Concept
 
-Once you have finished, submit the URL of your repository for the assignment in Canvas. Each team member needs to submit the link.
+Once you have finished, submit the URL of your repository for the assignment in Canvas. Each team member needs to submit the link.  
