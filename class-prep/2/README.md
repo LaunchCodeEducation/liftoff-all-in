@@ -3,9 +3,9 @@ title: 'Class 2 Prep'
 currentMenu: class-prep
 ---
 
-## Sections
-
-- [Career Module: Live Coding One](#career-module-live-coding-one)
+| Table of Contents |
+|-------------------|
+| [Career Module: Resumes and Portfolios](#career-module-resumes-and-portfolios) |
 
 ## Career Module: Resumes and Portfolios
 Task | Resource Type | Link | Instructions
