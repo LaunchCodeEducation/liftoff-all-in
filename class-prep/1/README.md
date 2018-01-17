@@ -5,8 +5,8 @@ currentMenu: class-prep
 
 | Table of Contents |
 |-------------------|
-| [Career Module: Continued Education](#career-module-technical-roles-and-continued-education) |
-| [Project Module: Preparing for a Group Project](#project-module-components-of-a-successful-group-project) |
+| [Career Module: Technical Roles and Continued Education](#career-module-technical-roles-and-continued-education) |
+| [Project Module: Components of a Successful Group Project](#project-module-components-of-a-successful-group-project) |
 
 ## Career Module: Technical Roles and Continued Education
 
