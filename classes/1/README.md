@@ -109,7 +109,17 @@ If your user story has more than 3-4 acceptance stories, really analyze the stor
 Write out all the possible user stories you can currently think of. I guarantee that you will be missing some of the project scope; however with a little luck, you will be able to connect the dots and see the entire project picture.
 
 #### Wireframes
-The skeletal framework of the user experience
+The visual representation of your user interface.
+
+It communicates four things:
+1. **Structure**<br>
+Navigation and information architecture
+2. **Layout**<br>
+Including page heirarchy and placement of elements
+3. **Content**<br>
+How the content will be placed within the design
+4. **Functionality**<br>
+How it works, and how it interacts
 
 #### Agile Manifesto
 We are uncovering better ways of developing
@@ -123,8 +133,11 @@ Through this work we have come to value:
 That is, while there is value in the items on
 the right, we value the items on the left more.
 
-#### GitHub
-Backing up your work
+#### Source Control
+Using source control provides the following main benefits:
+* Backs up your work in case you lose your local copy.
+* Provides code history, making reversion and tracking root causes of problems significantly easier.
+* Branching & Merging, which allows you to work on problems or features without fear of publishing incomplete code.
 
 ### Planning
 
