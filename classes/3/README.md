@@ -3,16 +3,10 @@ title: 'Class 3'
 currentMenu: classes
 ---
 
-## Sections
-
-- [Project Module: Github Best Practices](#project-module-github-best-practices)
-- [Career Module: Online Profiles](#career-module-online-profiles)
-- [Project Module: Sprint Kickoff](#project-module-sprint-kickoff)
-- [Work Time: Project Setup](#project-module-project-setup)
-
-## Project Module: GitHub Best Practices
-
-We'll discuss using Git and GitHub at a more advanced level than you're used to, including branches, remotes, undoing changes, and "Git hygiene".
+| Table of Contents |
+|---|
+| [Career Module: Online Profiles](#career-module-online-profiles) |
+| [Project Module: First Deployment](#project-module-first=deployment) |
 
 ## Career Module: Online Profiles
 
@@ -22,15 +16,8 @@ In our small groups we will create a README.md file for our project. If you have
 
 You will then use the remaining class time to work on your project, or review any of the coursework so far.
 
-## Project Module: Sprint Kickoff
+## Project Module: First Deployment
 
-We will complete your first [sprint kickoff](../../articles/agile-ceremonies/#sprint-kickoff) by planning and estimating work for the next two weeks.
+We will be going over getting the code you committed deployed to [Heroku](http://heroku.com/).
 
-## Project Module: Project Setup
-
-You will have time within class to work on setting up your project's repository and adding your first commits. Get started by working through the [Project Setup](../../assignments/project-setup/) assignment, which includes directions for submission even if you've already started a project.
-
-Be sure to focus on:
-- Getting a basic, working project into your repository with an early first commit.
-- Getting help from your mentor if you need direction
-- Gaining early momentum on your project by working regularly, making lots of small commits, and completing user stories
+Once you have created your account and created an app, you can link your GitHub repository with this app and enable automatic deployment for one of your branches. This will trigger a new deployment whenever you make a commitment to that branch.
