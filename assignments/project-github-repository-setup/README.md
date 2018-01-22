@@ -33,6 +33,6 @@ Revisit [lesson videos](http://education.launchcode.org/skills-back-end-csharp/v
 - [Intro to ASP.NET Core MVC: Controllers](http://education.launchcode.org/skills-back-end-csharp/videos/intro-to-mvc-controllers/) - for creating a basic, "hello world" application
 - [Intro to Visual Studio](http://education.launchcode.org/skills-back-end-csharp/videos/intro-to-visual-studio/) - for connecting your local Git repository to a GitHub repository
 
-## Submitting Your Concept
+## Submitting Your Repository Link
 
 Once you have finished, submit the URL of your repository for the assignment in Canvas. Each team member needs to submit the link.  
