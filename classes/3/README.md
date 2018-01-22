@@ -10,11 +10,17 @@ currentMenu: classes
 
 ## Career Module: Online Profiles
 
-Today's career module in class activity will consist of a discussion around Online Profiles: Resume, Github, and LinkedIn.
+Today's career module is centered around Test Driven Development. After the speaker presentation, Ben will lead us in a hands on tutorial on TDD to give you a change to try it out for yourself.
 
-In our small groups we will create a README.md file for our project. If you have never added a README.md file to a Github please follow [this guide](../../articles/github-readme/).
+Test Driven Development is a software development process that relies on the repetition of a very short development cycle. First the developer writes an (initially failing) automated test case that defines a desired improvement or new function, then produces the minimum amount of code to pass that test, and finally refactors the new code to acceptable standards.
+The following sequence of steps is generally followed:
 
-You will then use the remaining class time to work on your project, or review any of the coursework so far.
+1. Add a test
+2. Run all tests and see if the new one fails
+3. Write some code
+4. Run tests
+5. Refactor code
+6. Repeat
 
 ## Project Module: First Deployment
 
