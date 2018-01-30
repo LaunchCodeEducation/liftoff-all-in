@@ -6,7 +6,6 @@ currentMenu: classes
 | Table of Contents |
 |---|
 | [Career Module: Online Profiles](#career-module-online-profiles) |
-| [Project Module: First Deployment](#project-module-first=deployment) |
 
 ## Career Module: Online Profiles
 
@@ -21,9 +20,3 @@ The following sequence of steps is generally followed:
 4. Run tests
 5. Refactor code
 6. Repeat
-
-## Project Module: First Deployment
-
-We will be going over getting the code you committed deployed to [Heroku](http://heroku.com/).
-
-Once you have created your account and created an app, you can link your GitHub repository with this app and enable automatic deployment for one of your branches. This will trigger a new deployment whenever you make a commitment to that branch.
