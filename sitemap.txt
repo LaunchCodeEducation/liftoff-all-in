@@ -25,7 +25,6 @@ https://education.launchcode.org/liftoff-all-in/assignments\project-concept/inde
 https://education.launchcode.org/liftoff-all-in/assignments\project-designs-and-user-stories/index.html
 https://education.launchcode.org/liftoff-all-in/assignments\project-github-repository-setup/index.html
 https://education.launchcode.org/liftoff-all-in/assignments\resumes/index.html
-https://education.launchcode.org/liftoff-all-in/assignments\setup/index.html
 https://education.launchcode.org/liftoff-all-in/class-prep/index.html
 https://education.launchcode.org/liftoff-all-in/class-prep\1/index.html
 https://education.launchcode.org/liftoff-all-in/class-prep\2/index.html
