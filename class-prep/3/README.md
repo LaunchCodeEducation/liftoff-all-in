@@ -3,10 +3,6 @@ title: 'Class 3 Prep'
 currentMenu: class-prep
 ---
 
-| Table of Contents |
-|---|
-| [Career Module: Test Driven Development](#career-module:-test-driven-development) |
-
 ## Career Module: Test Driven Development
 
 | Task | Resource Type | Link | Instructions |

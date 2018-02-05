@@ -3,10 +3,6 @@ title: 'Class 3'
 currentMenu: classes
 ---
 
-| Table of Contents |
-|---|
-| [Career Module: Online Profiles](#career-module-online-profiles) |
-
 ## Career Module: Online Profiles
 
 Today's career module is centered around Test Driven Development. After the speaker presentation, Ben will lead us in a hands on tutorial on TDD to give you a change to try it out for yourself.
