@@ -2,7 +2,7 @@
 title: 'Resources'
 currentMenu: resources
 ---
-
+## Table of Contents
 1. [Resumes and Portfolios](#resumes-and-portfolios)
 2. [Job Search Strategy](#job-search-strategy)
   * [Introduction to Job Search Strategies](#introduction-to-job-search-strategies)
@@ -12,6 +12,7 @@ currentMenu: resources
   * [Technical Interviews](#technical-interviews)
 4. [Business Etiquette](#business-etiquette)
 5. [Projects](#projects)
+  * [Project Overview](#project-overview)
   * [Source Control](#source-control)
   * [Project Design](#project-design)
   * [UX](#ux)
@@ -19,13 +20,15 @@ currentMenu: resources
 
 
 
-### Resumes and Portfolios
+## Resumes and Portfolios
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
 | Webinar | [Resume and Portfolio Development](https://youtu.be/llvcU9OgoV0) | It's important to recognize that technical resumes don't necessarily follow the same rules as traditional resumes. Watch this really helpful webinar on developing your entry level tech resume to best optimize for the job you want. [Get the Slides Here](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5OVVUVXVLeDVhamFBc1NsMW9PbFhMNWI0V2tZ/view?usp=sharing) |
 | Article | [How to Build an Impressive Portfolio When You’re New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) | Your online portfolio is your chance to SHOW employers not only what you know, but what you can accomplish. If you are a web developer it's highly important to have a personal website showcasing your online projects. If you are more backend, he can get creative to show off your talent. |
 
-### Job Search Strategy
+[Back to Top](#table-of-contents)
+
+## Job Search Strategy
 
 #### Introduction to Job Search Strategies
 | Resource Type | Link | Instructions |
@@ -40,8 +43,9 @@ currentMenu: resources
 | Webinar | [Introduction to LinkedIn](https://www.youtube.com/watch?v=z1OespySBBc&feature=youtu.be) | Boost your job search by becoming a LinkedIn expert. Learn how to make this social platform work for you. |
 | Article | [Create a Killer LinkedIn Profile](https://www.linkedin.com/pulse/how-create-killer-linkedin-profile-get-you-noticed-bernard-marr/) | You will be using your LinkedIn profile when out networking to best connect with people. Afterall, who wants to collect business cards? A professional LinkedIn profile is essential to get noticed and be taken seriously. Read this article on how to best showcase yourself on LinkedIn and get your profile working for you today.|
 
-### Interview Skills
+[Back to Top](#table-of-contents)
 
+## Interview Skills
 
 #### Soft Skills
 | Resource Type | Link | Instructions |
@@ -59,19 +63,24 @@ currentMenu: resources
 | Article | [Systems Design Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) | System design questions have become a standard part of the software engineering interview process. Performance in these interviews reflects upon your ability to work with complex systems and translates into the position and salary the interviewing company offers you. Most engineers struggle with system design interview (SDI), partly because of their lack of experience in developing large-scale systems, and partly because of the unstructured nature of SDIs. |
 | Course | [Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821) | Software Architecture and Design teaches the principles and concepts involved in the analysis and design of large software systems. This course is split into four sections: (1) Introduction, (2) UML and Analysis, (3) Software Architecture, and (4) Software Design. Cost: Free  Platform: Udacity|
 
-### Business Etiquette
+[Back to Top](#table-of-contents)
+
+## Business Etiquette
 
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
 | Webinar | [Business Etiquette](https://youtu.be/SAD_jMyCPbU) | Watch our latest webinar on Business Etiquette hosted in Portland. [Get the Slides Here](https://drive.google.com/open?id=0B0yWvnAybjd5aFVVc2pPT0NTakJCWk9zMTNMWU9aRW9uRjBF) |
-|
 
+[Back to Top](#table-of-contents)
 
-### Projects
+## Projects
+
+#### Project Overview
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
 | Article | [Project Overview](../../articles/capstone-overview/) | Get an overview of what LaunchCode expects to see in a good project and how you should go about coming up with a killer project idea. |
 | Article | [Components of a Successful Project](../../articles/components-of-a-successful-project/) | Start thinking about how to setup your project, timelines, your user stories, and project management. |
+| Assignment | [Create a Project Outline](../../assignments/project-concept/) | Before you meet with your project coordinator, start working on your project outline. You can decide with your coordinator if you should continue work on a current project that's in process or start something new. Most importantly, think about what your portfolio may be missing and try to address that with this project. |
 
 #### Source Control
 
@@ -119,3 +128,5 @@ Most agile articles (including the one below) are littered with jargon that can 
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
 | Article | [Agile Ceremonies](https://www.atlassian.com/agile/ceremonies) | Read about the basics of the 4 main agile ceremonies. |
+
+[Back to Top](#table-of-contents)
