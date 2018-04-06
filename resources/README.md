@@ -10,12 +10,12 @@ currentMenu: resources
 3. [Interview Skills](#interview-skills)
   * [Soft Skills](#soft-skills)
   * [Technical Interviews](#technical-interviews)
-4. [Projects](#projects)
+4. [Business Etiquette](#business-etiquette)
+5. [Projects](#projects)
   * [Source Control](#source-control)
   * [Project Design](#project-design)
   * [UX](#ux)
   * [Project Organization](#project-organization)
-5. [Business Etiquette](#business-etiquette)
 
 
 
@@ -23,6 +23,7 @@ currentMenu: resources
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
 | Webinar | [Resume and Portfolio Development](https://youtu.be/llvcU9OgoV0) | It's important to recognize that technical resumes don't necessarily follow the same rules as traditional resumes. Watch this really helpful webinar on developing your entry level tech resume to best optimize for the job you want. [Get the Slides Here](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5OVVUVXVLeDVhamFBc1NsMW9PbFhMNWI0V2tZ/view?usp=sharing) |
+| Article | [How to Build an Impressive Portfolio When You’re New to Tech](https://skillcrush.com/2015/03/12/impressive-tech-portfolio/) | Your online portfolio is your chance to SHOW employers not only what you know, but what you can accomplish. If you are a web developer it's highly important to have a personal website showcasing your online projects. If you are more backend, he can get creative to show off your talent. |
 
 ### Job Search Strategy
 
@@ -36,14 +37,35 @@ currentMenu: resources
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
 | Webinar | [Networking](https://youtu.be/0qpLMslnumg) | 80% of jobs are found through people you know. Networking is critical to landing jobs, especially in the competitive northwest market. Learn how to hone your elevator pitch and become an effective networker in this video. |
-| Webinar | [Introduction to LinkedIn](https://youtu.be/5ZM6ycbmPd4) | Boost your job search by becoming a LinkedIn expert. Learn how to make this social platform work for you. |
+| Webinar | [Introduction to LinkedIn](https://www.youtube.com/watch?v=z1OespySBBc&feature=youtu.be) | Boost your job search by becoming a LinkedIn expert. Learn how to make this social platform work for you. |
 | Article | [Create a Killer LinkedIn Profile](https://www.linkedin.com/pulse/how-create-killer-linkedin-profile-get-you-noticed-bernard-marr/) | You will be using your LinkedIn profile when out networking to best connect with people. Afterall, who wants to collect business cards? A professional LinkedIn profile is essential to get noticed and be taken seriously. Read this article on how to best showcase yourself on LinkedIn and get your profile working for you today.|
 
 ### Interview Skills
 
+
 #### Soft Skills
+| Resource Type | Link | Instructions |
+|------|---------------|------|--------------|
+| Video |[Interview Techniques - STAR Method](https://www.youtube.com/watch?v=0nN7Q7DrI6Q) | Formulating your responses in interviews using the STAR Method has proven results. STAR stands for Situation, Task, Action, Result. When you answer questions using the STAR Method you are _showing_ the interviewer your soft skills and that's much more impactful than just telling them to trust you that you have those skills. |
+| Worksheet | [Common Soft Skills Questions](https://drive.google.com/a/launchcode.org/file/d/1fkR_Grkj1v6r-N2ztVKG1IiM2G104GJx/view?usp=sharing) | Work through these common questions using the STAR Method before you have an interview. It's useful to save your answers on your computer for easy review before every interview you have. Continue to re-evaluate your stories and add new ones as you gain experience on the job. |
+
+
 
 #### Technical Interviews
+| Resource Type | Link | Instructions |
+|------|---------------|------|--------------|
+| Blog |[How to Crush your Live Coding Interview](https://blog.launchcode.org/how-to-crush-your-live-coding-interview/) | Does the idea of coding on a whiteboard, away from your IDE, in front of a seasoned programmer leave you shaking in your boots? We’ve got you covered with these tips and tricks on getting through the coding section of a technical interview.|
+| Video | [Big O Notation](https://www.youtube.com/watch?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT&time_continue=10&v=V6mKVRU1evU) | Big O simplified in this quick 20 minute tutorial. Covers examples of O(1), O(n), O(n^2), O(log n), and O(n log n). |
+| Article | [Systems Design Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) | System design questions have become a standard part of the software engineering interview process. Performance in these interviews reflects upon your ability to work with complex systems and translates into the position and salary the interviewing company offers you. Most engineers struggle with system design interview (SDI), partly because of their lack of experience in developing large-scale systems, and partly because of the unstructured nature of SDIs. |
+| Course | [Software Architecture and Design](https://www.udacity.com/course/software-architecture-design--ud821) | Software Architecture and Design teaches the principles and concepts involved in the analysis and design of large software systems. This course is split into four sections: (1) Introduction, (2) UML and Analysis, (3) Software Architecture, and (4) Software Design. Cost: Free  Platform: Udacity|
+
+### Business Etiquette
+
+| Resource Type | Link | Instructions |
+|------|---------------|------|--------------|
+| Webinar | [Business Etiquette](https://youtu.be/SAD_jMyCPbU) | Watch our latest webinar on Business Etiquette hosted in Portland. [Get the Slides Here](https://drive.google.com/open?id=0B0yWvnAybjd5aFVVc2pPT0NTakJCWk9zMTNMWU9aRW9uRjBF) |
+|
+
 
 ### Projects
 | Resource Type | Link | Instructions |
@@ -56,6 +78,9 @@ currentMenu: resources
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
 | Assignment | [Setup Your GitHub Account](../../assignments/setup/) | Set up a GitHub account and take a tutorial to help prepare for using version control with your project stay on track and as well as gain import skills utilizing version control. |
+| Article | [Document Your Projects](https://guides.github.com/features/wikis/)| Create professional-looking README files to best document your projects for both yourself and for all of the hiring managers scoping out your projects on GitHub. |
+| Article | [Awesome GitHub README](https://github.com/matiassingers/awesome-readme) | Check out these amazing GitHub README. We bet you'll be inspired to create your own. The important piece is to make sure you are making it easy for employers to see what your project does, business problem it solves, technology you used, features you implemented, and acknowledge any planned updates and/or improvements. |
+
 
 #### Project Design
 
@@ -64,6 +89,8 @@ currentMenu: resources
 | Webinar | [Process Management Styles](https://youtu.be/zT1fpPe9Mfk) | Watch our most recent workshop on Process Management Styles presented by our fabulous company partners in Portland. [Get the Slides Here](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5NEhMWElLcGxna3pLVVRlNjFYU3ctMGpndkxV/view?usp=sharing) |
 | Article | [What Is A User Story?](https://www.leadingagile.com/2012/07/user-story/) | Read this brief introduction to the concept of user stories. User stories are a technique of defining work items. They are often discussed in the content of "Agile development", but are not the same as Agile. We'll learn more about Agile in a future lesson, but for now, focus on the concept of a user story as a stand-alone tool |
 | Article | [10 Tips for Writing Good User Stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/) | Read about writing great user stories for your project |
+| Webinar Slides | [Test Driven Development](https://drive.google.com/file/d/1Ykhxoo8cQa2gsYfQbpetS8x8nEe9UoV5/view) | Unit testing is a skill that employers want their software engineers to have. Learn about Test Driven Development with these slides from our recent Test Driven Development Workshop. [Demo Code](https://github.com/kevcunnane/hdfsbrowser) |
+| Video | [What is Test Driven Development?](https://www.youtube.com/watch?v=2Ekty7t621k) | You've probably heard of Test Driven Development, or TDD. But what is it really? You've probably heard of JUnit. But how do you use it to do TDD? |
 
 #### UX
 
@@ -92,23 +119,3 @@ Most agile articles (including the one below) are littered with jargon that can 
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
 | Article | [Agile Ceremonies](https://www.atlassian.com/agile/ceremonies) | Read about the basics of the 4 main agile ceremonies. |
-
-## Business Etiquette
-
-
-Week | Prep Work | In Class | <u>Mondays</u><br>Job Search Strategy &<br>Cracking the Coding Interview ([Solutions](http://www.crackingthecodinginterview.com/solutions.html)) | <u>Tuesdays</u><br>Career Module | <u>Thursdays</u><br>Project Module
------|-----------|----------|-------------------------------|---------
-1 | [Prep Work](../class-prep/1/) | [In Class](../classes/1/) | | | [Project Concept](../assignments/project-concept)
-2 | [Prep Work](../class-prep/2/) | [In Class](../classes/2/) | **Cracking the Code Topic:** <br>Big O Notation<br>[Overview](https://drive.google.com/open?id=0B0yWvnAybjd5enpSei1LNTFpYTNmNTZIVGVaS3FHeTFXeVhv)<br>[Examples](https://drive.google.com/open?id=0B0yWvnAybjd5M0MyVDVvLUhBdjVZXzItWXNNQ0szWDZEQktB)<br>[Practice Problems](https://drive.google.com/open?id=0B0yWvnAybjd5Yl9YYnFqUS1FblJ3cE13OVhFS1c3YXNQZHln) | |
-3 | [Prep Work](../class-prep/3/) | [In Class](../classes/3/) | **Cracking the Code Topic:** <br> Arrays and Strings<br>[Overview and Practive Problems](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5OFJaUVV5cFRaUE00MFF6d2VlZEVRVHNhWUdj/view?usp=sharing) | **Topic:** <br>Test Driven Development<br>[Slides](https://drive.google.com/open?id=1Ykhxoo8cQa2gsYfQbpetS8x8nEe9UoV5)<br>[Demo Code](https://github.com/kevcunnane/hdfsbrowser) <br> **In Class Studio:**  <br> TDD Demo  <br>| **Topic:** <br>*None* (Focus on project!)
-4 | [Prep Work](../class-prep/4/) | [In Class](../classes/4/) | **Job Search Strategy:**<br>[Video](https://youtu.be/1uu4A7hmwlE)<br>**Cracking the Code Topic:** <br>Linked Lists<br>[Overview and Practice Problems](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5am5zUUUwcVc4di1wazVRaVE2T2hMVEFpZUpR/view?usp=sharing) | **Topic:** <br>Business Etiquette<br>[Slides](https://drive.google.com/open?id=0B0yWvnAybjd5aFVVc2pPT0NTakJCWk9zMTNMWU9aRW9uRjBF)<br>[Video](https://youtu.be/SAD_jMyCPbU)  | **Topic:** <br>*None* (Focus on project!)<br>
-5 | [Prep Work](../class-prep/5/) | [In Class](../classes/5/) | **Job Search Strategy:**<br>[Video](https://youtu.be/L_vURFZAxuw)<br>**Cracking the Code Topic:** <br>Stacks and Queues<br>[Overview and Practice Problems](https://drive.google.com/a/launchcode.org/file/d/1UAci02Rewy3dS4-eYDYZ8fQZjMMlYIIj/view?usp=sharing) | |
-6 |<span style="display:none"> [Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/) </span> | **Cracking the Code Topic:** <br>Trees and Graphs<br>[Overview and Practice Problems](https://drive.google.com/a/launchcode.org/file/d/1zybq_E-kVImFP0jiXGyuLG4ERRT_oXX9/view?usp=sharing) | |
-7 |<span style="display:none"> [Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/) </span>| **Cracking the Code Topic:** <br>Sorting and Searching | **Topic:** <br>Introduction to LinkedIn <br>**Assignment:** <br>|  **Topic:**<br>Polishing for Release
-8 |<span style="display:none"> [Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/)</span> | **Cracking the Code Topic:** <br>Math and Logic Puzzles | **Topic:** <br>Technical Interviews and Live Coding\* <br>**Assignment:** <br>[Practice Live Coding](https://blog.launchcode.org/how-to-crush-your-live-coding-interview/)|  **Topic:** <br>*None* (Focus on project!)
-9 |<span style="display:none"> [Prep Work](../class-prep/6/) </span>| <span style="display:none">[In Class](../classes/6/)</span> | **Cracking the Code Topic:** <br>Recursion and Dynamic Programming | **Topic:** <br>Documentation Skills\* <br>**Assignment:** <br>[Document Your Projects](https://guides.github.com/features/wikis/)|  **Topic:** <br>Present Your Projects
-10 |<span style="display:none"> [Prep Work](../class-prep/6/) </span>|<span style="display:none"> [In Class](../classes/6/)</span> | **Cracking the Code Topic:** <br>Object Oriented Design | **Topic:** <br>Interview Soft Skills <br>**Assignment:** <br>STAR out your Interviews|  |
-11 | <span style="display:none">[Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/)</span> | **Cracking the Code Topic:** <br>Scalability and Memory Limits | **Topic:** <br>Ticketing Systems & Internal Team Communication\* <br>|  |
-12 | <span style="display:none">[Prep Work](../class-prep/6/)</span> | <span style="display:none">[In Class](../classes/6/) </span>| **Cracking the Code Topic:** <br>Assorted Moderate to Hard Problems | **Topic:** <br>Mock Interviews\* <br>| |
-
-*Presented by an Expert in the Field
