@@ -1,9 +1,9 @@
 ---
-title: Group Project Overview
+title: Project Overview
 currentMenu: articles
 ---
 
-Projects are one of the most important pieces to landing your first job as a developer. Having experience developing with a team utilizing common product development strategies is one way potential employers will verify that you are job-ready. All of your projects, whether personal or group projects, should be something that you're proud to show off. So don't skimp on the time, energy, and thought that you put into this!
+Projects are one of the most important pieces to landing your first job as a developer. Having experience developing a project end to end, utilizing common product development strategies, is one way potential employers will verify that you are job-ready. All of your projects, whether personal or group projects, should be something that you're proud to show off. So don't skimp on the time, energy, and thought that you put into this!
 
 Be unique, innovative and creative. Your project should demonstrate meaningful thought and planning, and that you can build software from the ground up.
 
@@ -11,12 +11,14 @@ Your project should:
 
 1. __Demonstrate marketable skills__: You have a strong foundation in at least one language that is widely used by professional developers, and the related tools and best practices. You can apply your programming skills within a professional-grade framework or tools like ASP.NET MVC or Spring Boot.
 2. __Demonstrate your ability to learn new things__: In your project, you will go beyond your initial learning to teach yourself something new. Maybe you learned Angular.js for your front-end web project, or connected to an API in your back-end Java application.
-3. __Solve a problem__: When employed as a programmer, you'll be asked to implement solutions to problems. Your group project should demonstrate that you are capable of identifying a problem and coming up with a software-based solution to the problem. For example, creating an app that allows a nonprofit organizations to organize and communicate with volunteers solves a meaningful problem. Creating a Sudoku app doesn't.
+3. __Solve a problem__: When employed as a programmer, you'll be asked to implement solutions to problems. Your project should demonstrate that you are capable of identifying a problem and coming up with a software-based solution to the problem. For example, creating an app that allows nonprofit organizations to organize and communicate with volunteers solves a meaningful problem. Creating a Sudoku app doesn't.
 
 You will put your project up in GitHub. This will make it accessible for others to view, and will show off all of hard work you put into it as you rack up commits!
 
 Regardless of the project you tackle, you should:
-* Build an application entirely by team members, or nearly so. If you use “starter code", you need to go well beyond what was provided or worked on by others. You should be able to clearly articulate what you built yourself versus what was built by others.
+* Build an application entirely by yourself, or nearly so. If you use “starter code", you need to go well beyond what was provided or worked on by others. You should be able to clearly articulate what you built yourself including design decisions and why you chose the technologies you did to complete the project.
 * Include 5 killer features. Each feature should add a significant new component to your project, but also should be so big as to take you weeks to implement. Adding a new button to your web project? Probably not significant enough. Creating a discussion forum? That's too big. Adding user authentication? Yep, that's great!
 
-To help you get some ideas, review some [project demo videos](https://www.youtube.com/watch?v=_8LRJHkTqsg&list=PLs5n5nYB22fIdV_HMkekxx7Yt06lXUptT) by past LaunchCode graduates. Please note, these are personal projects. Group projects are expected to have more features and functionality as you are able to use each other's strengths for a more comprehensive and robust application.
+To help you get some ideas, review some <a href="https://www.youtube.com/watch?v=_8LRJHkTqsg&list=PLs5n5nYB22fIdV_HMkekxx7Yt06lXUptT" target="blank">Project Demo Videos</a> by past LaunchCode graduates.
+
+[Back to Resources](/resources/#projects/)
