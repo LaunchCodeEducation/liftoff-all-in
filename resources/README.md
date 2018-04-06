@@ -5,7 +5,11 @@ currentMenu: resources
 
 1. [Resumes and Portfolios](#resumes-and-portfolios)
 2. [Job Search Strategy](#job-search-strategy)
+  * [Introduction to Job Search Strategies](#introduction-to-job-search-strategies)
+  * [Networking](#networking)
 3. [Interview Skills](#interview-skills)
+  * [Soft Skills](#soft-skills)
+  * [Technical Interviews](#technical-interviews)
 4. [Projects](#projects)
   * [Source Control](#source-control)
   * [Project Design](#project-design)
@@ -14,11 +18,32 @@ currentMenu: resources
 5. [Business Etiquette](#business-etiquette)
 
 
+
 ### Resumes and Portfolios
+| Resource Type | Link | Instructions |
+|------|---------------|------|--------------|
+| Webinar | [Resume and Portfolio Development](https://youtu.be/llvcU9OgoV0) | It's important to recognize that technical resumes don't necessarily follow the same rules as traditional resumes. Watch this really helpful webinar on developing your entry level tech resume to best optimize for the job you want. [Get the Slides Here](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5OVVUVXVLeDVhamFBc1NsMW9PbFhMNWI0V2tZ/view?usp=sharing) |
 
 ### Job Search Strategy
 
+#### Introduction to Job Search Strategies
+| Resource Type | Link | Instructions |
+|------|---------------|------|--------------|
+| Webinar | [Introduction to Job Search Strategies](https://www.youtube.com/watch?v=bOyInEczTVw&feature=youtu.be) | Learn how to treat your job search just as you would any project you are working on in this video on how to have an active and effective job search. |
+| Webinar | [Goal Roal Clarity: Exploring Different Technical Jobs](https://youtu.be/5ZM6ycbmPd4) | Hiring companies want people who have a focus on what they want to do. Watch this panel of our company partners in Seattle to learn about different roles within the technical industry. |
+
+#### Networking
+| Resource Type | Link | Instructions |
+|------|---------------|------|--------------|
+| Webinar | [Networking](https://youtu.be/0qpLMslnumg) | 80% of jobs are found through people you know. Networking is critical to landing jobs, especially in the competitive northwest market. Learn how to hone your elevator pitch and become an effective networker in this video. |
+| Webinar | [Introduction to LinkedIn](https://youtu.be/5ZM6ycbmPd4) | Boost your job search by becoming a LinkedIn expert. Learn how to make this social platform work for you. |
+| Article | [Create a Killer LinkedIn Profile](https://www.linkedin.com/pulse/how-create-killer-linkedin-profile-get-you-noticed-bernard-marr/) | You will be using your LinkedIn profile when out networking to best connect with people. Afterall, who wants to collect business cards? A professional LinkedIn profile is essential to get noticed and be taken seriously. Read this article on how to best showcase yourself on LinkedIn and get your profile working for you today.|
+
 ### Interview Skills
+
+#### Soft Skills
+
+#### Technical Interviews
 
 ### Projects
 | Resource Type | Link | Instructions |
@@ -36,6 +61,7 @@ currentMenu: resources
 
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
+| Webinar | [Process Management Styles](https://youtu.be/zT1fpPe9Mfk) | Watch our most recent workshop on Process Management Styles presented by our fabulous company partners in Portland. [Get the Slides Here](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5NEhMWElLcGxna3pLVVRlNjFYU3ctMGpndkxV/view?usp=sharing) |
 | Article | [What Is A User Story?](https://www.leadingagile.com/2012/07/user-story/) | Read this brief introduction to the concept of user stories. User stories are a technique of defining work items. They are often discussed in the content of "Agile development", but are not the same as Agile. We'll learn more about Agile in a future lesson, but for now, focus on the concept of a user story as a stand-alone tool |
 | Article | [10 Tips for Writing Good User Stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/) | Read about writing great user stories for your project |
 
@@ -69,15 +95,16 @@ Most agile articles (including the one below) are littered with jargon that can 
 
 ## Business Etiquette
 
+
 Week | Prep Work | In Class | <u>Mondays</u><br>Job Search Strategy &<br>Cracking the Coding Interview ([Solutions](http://www.crackingthecodinginterview.com/solutions.html)) | <u>Tuesdays</u><br>Career Module | <u>Thursdays</u><br>Project Module
 -----|-----------|----------|-------------------------------|---------
-1 | [Prep Work](../class-prep/1/) | [In Class](../classes/1/) | | **Topic:** <br>Goal Role Clarity: Exploring Different Technical Jobs<br>[Video](https://youtu.be/5ZM6ycbmPd4)<br>[Resume and Portfolio Development](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5OVVUVXVLeDVhamFBc1NsMW9PbFhMNWI0V2tZ/view?usp=sharing)<br>[Resume Tips Email Handout](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5U0k4T3Ezc3dwd1JBcUNQdU9UVmFHZHhqQjBB/view?usp=sharing)<br>| **Topic:** <br>Components of a Successful Group Project<br>[Presentation](https://docs.google.com/a/launchcode.org/presentation/d/1FIj4z-yXuRmOddj51mqy3NqH1GPLnF0Cg-3xURmcofc/edit?usp=sharing)<br>**Assignment:** <br>[Project Concept](../assignments/project-concept)
-2 | [Prep Work](../class-prep/2/) | [In Class](../classes/2/) | **Cracking the Code Topic:** <br>Big O Notation<br>[Overview](https://drive.google.com/open?id=0B0yWvnAybjd5enpSei1LNTFpYTNmNTZIVGVaS3FHeTFXeVhv)<br>[Examples](https://drive.google.com/open?id=0B0yWvnAybjd5M0MyVDVvLUhBdjVZXzItWXNNQ0szWDZEQktB)<br>[Practice Problems](https://drive.google.com/open?id=0B0yWvnAybjd5Yl9YYnFqUS1FblJ3cE13OVhFS1c3YXNQZHln) | **Topic:** <br>Resumes and Portfolios <br>[Video](https://youtu.be/llvcU9OgoV0)<br>**Assignment:** <br> [Polish your Resume](../assignments/resumes) | **Topic:** <br>Project Setup and Planning<br>**Assignment:** <br>[GitHub Repository Setup](../assignments/project-github-repository-setup)<br>[Design and User Stories](../assignments/project-designs-and-user-stories)
+1 | [Prep Work](../class-prep/1/) | [In Class](../classes/1/) | | | [Project Concept](../assignments/project-concept)
+2 | [Prep Work](../class-prep/2/) | [In Class](../classes/2/) | **Cracking the Code Topic:** <br>Big O Notation<br>[Overview](https://drive.google.com/open?id=0B0yWvnAybjd5enpSei1LNTFpYTNmNTZIVGVaS3FHeTFXeVhv)<br>[Examples](https://drive.google.com/open?id=0B0yWvnAybjd5M0MyVDVvLUhBdjVZXzItWXNNQ0szWDZEQktB)<br>[Practice Problems](https://drive.google.com/open?id=0B0yWvnAybjd5Yl9YYnFqUS1FblJ3cE13OVhFS1c3YXNQZHln) | |
 3 | [Prep Work](../class-prep/3/) | [In Class](../classes/3/) | **Cracking the Code Topic:** <br> Arrays and Strings<br>[Overview and Practive Problems](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5OFJaUVV5cFRaUE00MFF6d2VlZEVRVHNhWUdj/view?usp=sharing) | **Topic:** <br>Test Driven Development<br>[Slides](https://drive.google.com/open?id=1Ykhxoo8cQa2gsYfQbpetS8x8nEe9UoV5)<br>[Demo Code](https://github.com/kevcunnane/hdfsbrowser) <br> **In Class Studio:**  <br> TDD Demo  <br>| **Topic:** <br>*None* (Focus on project!)
 4 | [Prep Work](../class-prep/4/) | [In Class](../classes/4/) | **Job Search Strategy:**<br>[Video](https://youtu.be/1uu4A7hmwlE)<br>**Cracking the Code Topic:** <br>Linked Lists<br>[Overview and Practice Problems](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5am5zUUUwcVc4di1wazVRaVE2T2hMVEFpZUpR/view?usp=sharing) | **Topic:** <br>Business Etiquette<br>[Slides](https://drive.google.com/open?id=0B0yWvnAybjd5aFVVc2pPT0NTakJCWk9zMTNMWU9aRW9uRjBF)<br>[Video](https://youtu.be/SAD_jMyCPbU)  | **Topic:** <br>*None* (Focus on project!)<br>
-5 | [Prep Work](../class-prep/5/) | [In Class](../classes/5/) | **Job Search Strategy:**<br>[Video](https://youtu.be/L_vURFZAxuw)<br>**Cracking the Code Topic:** <br>Stacks and Queues<br>[Overview and Practice Problems](https://drive.google.com/a/launchcode.org/file/d/1UAci02Rewy3dS4-eYDYZ8fQZjMMlYIIj/view?usp=sharing) | **Topic:** <br>Process Management Styles\* <br>[Slides](https://drive.google.com/a/launchcode.org/file/d/0B0yWvnAybjd5NEhMWElLcGxna3pLVVRlNjFYU3ctMGpndkxV/view?usp=sharing)<br>[Video](https://youtu.be/zT1fpPe9Mfk)| **Topic:** <br>*None* (Focus on project!)
-6 |<span style="display:none"> [Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/) </span> | **Cracking the Code Topic:** <br>Trees and Graphs<br>[Overview and Practice Problems](https://drive.google.com/a/launchcode.org/file/d/1zybq_E-kVImFP0jiXGyuLG4ERRT_oXX9/view?usp=sharing) | **Topic:** <br>Networking<br>[Video](https://youtu.be/0qpLMslnumg) <br>**Assignment:** <br>[Attend a Meetup](../assignments/meetup/)|  **Topic:** <br>*None* (Focus on project!)
-7 |<span style="display:none"> [Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/) </span>| **Cracking the Code Topic:** <br>Sorting and Searching | **Topic:** <br>Introduction to LinkedIn <br>**Assignment:** <br>[Create a Killer LinkedIn Profile](https://www.linkedin.com/pulse/how-create-killer-linkedin-profile-get-you-noticed-bernard-marr/)|  **Topic:**<br>Polishing for Release
+5 | [Prep Work](../class-prep/5/) | [In Class](../classes/5/) | **Job Search Strategy:**<br>[Video](https://youtu.be/L_vURFZAxuw)<br>**Cracking the Code Topic:** <br>Stacks and Queues<br>[Overview and Practice Problems](https://drive.google.com/a/launchcode.org/file/d/1UAci02Rewy3dS4-eYDYZ8fQZjMMlYIIj/view?usp=sharing) | |
+6 |<span style="display:none"> [Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/) </span> | **Cracking the Code Topic:** <br>Trees and Graphs<br>[Overview and Practice Problems](https://drive.google.com/a/launchcode.org/file/d/1zybq_E-kVImFP0jiXGyuLG4ERRT_oXX9/view?usp=sharing) | |
+7 |<span style="display:none"> [Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/) </span>| **Cracking the Code Topic:** <br>Sorting and Searching | **Topic:** <br>Introduction to LinkedIn <br>**Assignment:** <br>|  **Topic:**<br>Polishing for Release
 8 |<span style="display:none"> [Prep Work](../class-prep/6/)</span> |<span style="display:none"> [In Class](../classes/6/)</span> | **Cracking the Code Topic:** <br>Math and Logic Puzzles | **Topic:** <br>Technical Interviews and Live Coding\* <br>**Assignment:** <br>[Practice Live Coding](https://blog.launchcode.org/how-to-crush-your-live-coding-interview/)|  **Topic:** <br>*None* (Focus on project!)
 9 |<span style="display:none"> [Prep Work](../class-prep/6/) </span>| <span style="display:none">[In Class](../classes/6/)</span> | **Cracking the Code Topic:** <br>Recursion and Dynamic Programming | **Topic:** <br>Documentation Skills\* <br>**Assignment:** <br>[Document Your Projects](https://guides.github.com/features/wikis/)|  **Topic:** <br>Present Your Projects
 10 |<span style="display:none"> [Prep Work](../class-prep/6/) </span>|<span style="display:none"> [In Class](../classes/6/)</span> | **Cracking the Code Topic:** <br>Object Oriented Design | **Topic:** <br>Interview Soft Skills <br>**Assignment:** <br>STAR out your Interviews|  |
