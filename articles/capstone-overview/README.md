@@ -21,4 +21,4 @@ Regardless of the project you tackle, you should:
 
 To help you get some ideas, review some <a href="https://www.youtube.com/watch?v=_8LRJHkTqsg&list=PLs5n5nYB22fIdV_HMkekxx7Yt06lXUptT" target="blank">Project Demo Videos</a> by past LaunchCode graduates.
 
-[Back to Resources](/resources/#projects/)
+[Back to Resources](/resources/)
