@@ -114,4 +114,4 @@ In addition, employers will expect you to be familiar with working with version 
 - Documenting features and notes (use the README files in Github)
 
 
-[Back to Resources](/resources/)
+[Back to Resources](resources/)
