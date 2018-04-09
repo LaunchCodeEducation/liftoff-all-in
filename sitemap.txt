@@ -3,6 +3,7 @@ https://education.launchcode.org/liftoff-all-in/articles/index.html
 https://education.launchcode.org/liftoff-all-in/articles\agile-ceremonies/index.html
 https://education.launchcode.org/liftoff-all-in/articles\camelcase/index.html
 https://education.launchcode.org/liftoff-all-in/articles\capstone-overview/index.html
+https://education.launchcode.org/liftoff-all-in/articles\components-of-a-successful-project/index.html
 https://education.launchcode.org/liftoff-all-in/articles\continuing-ed-resources/index.html
 https://education.launchcode.org/liftoff-all-in/articles\deploy-java/index.html
 https://education.launchcode.org/liftoff-all-in/articles\example-projects/index.html
@@ -48,6 +49,7 @@ https://education.launchcode.org/liftoff-all-in/classes\6/index.html
 https://education.launchcode.org/liftoff-all-in/index.html
 https://education.launchcode.org/liftoff-all-in/issues/index.html
 https://education.launchcode.org/liftoff-all-in/objectives/index.html
+https://education.launchcode.org/liftoff-all-in/resources/index.html
 https://education.launchcode.org/liftoff-all-in/videos/index.html
 https://education.launchcode.org/liftoff-all-in/videos\live-coding/index.html
 https://education.launchcode.org/liftoff-all-in/sitemap.html
