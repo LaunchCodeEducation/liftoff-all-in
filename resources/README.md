@@ -78,15 +78,15 @@ currentMenu: resources
 #### Project Overview
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
-| Article | [Project Overview](../../articles/capstone-overview/) | Get an overview of what LaunchCode expects to see in a good project and how you should go about coming up with a killer project idea. |
-| Article | [Components of a Successful Project](../../articles/components-of-a-successful-project/) | Start thinking about how to setup your project, timelines, your user stories, and project management. |
-| Assignment | [Create a Project Outline](../../assignments/project-concept/) | Before you meet with your project coordinator, start working on your project outline. You can decide with your coordinator if you should continue work on a current project that's in process or start something new. Most importantly, think about what your portfolio may be missing and try to address that with this project. |
+| Article | [Project Overview](../articles/capstone-overview/) | Get an overview of what LaunchCode expects to see in a good project and how you should go about coming up with a killer project idea. |
+| Article | [Components of a Successful Project](../articles/components-of-a-successful-project/) | Start thinking about how to setup your project, timelines, your user stories, and project management. |
+| Assignment | [Create a Project Outline](../assignments/project-concept/) | Before you meet with your project coordinator, start working on your project outline. You can decide with your coordinator if you should continue work on a current project that's in process or start something new. Most importantly, think about what your portfolio may be missing and try to address that with this project. |
 
 #### Source Control
 
 | Resource Type | Link | Instructions |
 |------|---------------|------|--------------|
-| Assignment | [Setup Your GitHub Account](../../assignments/setup/) | Set up a GitHub account and take a tutorial to help prepare for using version control with your project stay on track and as well as gain import skills utilizing version control. |
+| Assignment | [Setup Your GitHub Repository](https://help.github.com/articles/create-a-repo/) | Set up a GitHub account and take a tutorial to help prepare for using version control with your project stay on track and as well as gain import skills utilizing version control. |
 | Article | [Document Your Projects](https://guides.github.com/features/wikis/)| Create professional-looking README files to best document your projects for both yourself and for all of the hiring managers scoping out your projects on GitHub. |
 | Article | [Awesome GitHub README](https://github.com/matiassingers/awesome-readme) | Check out these amazing GitHub README. We bet you'll be inspired to create your own. The important piece is to make sure you are making it easy for employers to see what your project does, business problem it solves, technology you used, features you implemented, and acknowledge any planned updates and/or improvements. |
 
@@ -111,7 +111,7 @@ This isn't a design class, and most developers work with designers to create the
 |------|---------------|------|--------------|
 | Video | [Wireframing for UX](https://www.youtube.com/watch?v=8-vTd7GRk-w) | Get an overview of wireframes |
 | Article | [Getting Started With Wireframes](https://www.codementor.io/nicolesaidy/getting-started-with-wireframes-du107vuh7) | Now that you have a high-level idea of what wireframes are, dig a bit deeper and learn how and why they are useful |
-| Article | [UX Resources](../../articles/ux-resources/) | Review this list of great UX resources, which is also linked from the [Articles page](../../articles/) |
+| Article | [UX Resources](../articles/ux-resources/) | Review this list of great UX resources, which is also linked from the [Articles page](../articles/) |
 
 #### Project Organization
 

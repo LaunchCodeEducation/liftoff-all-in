@@ -2,6 +2,8 @@
 title: 'About Liftoff: All-In<tech>'
 currentMenu: about
 ---
+
+### Program Overview
 Liftoff: All-In<tech> is a job search strategy program designed to give you the tools you need to make your technical job search successful. You can expect to participate in the following:
 * Professional Development Workshops
 * Job Search Strategy and Networking Support
