@@ -18,11 +18,11 @@ Monday | Tuesday | Wednesday | Thursday | Friday
  17th | Cracking the Coding Interview - Seattle <br> 5:00pm - 7:00pm <br> Industrious - Seattle <br><br> Cracking the Coding Interview - Portland  <br> 6:30pm - 8:30pm <br> CENTRL - Eastside
  19th | Cracking the Coding Interview - Seattle <br> 11:00am - 1:00 pm <br> Industrious - Seattle <br><br> Coffee and Code - Seattle<br>1:00pm - 3:00pm <br> Industrious - Seattle <br><br> Job Search Strategy - Portland and Seattle <br> 3:00pm - 5:00pm<br> <br>Technical Interviews & Live Coding <br>6:00pm - 9:00pm<br> (multiple locations)<br><br>*Portland* <br>*CENTRL - Eastside*<br><br>*Seattle*<br>*Industrious - Seattle*
  24th | Cracking the Coding Interview - Seattle <br> 5:00pm - 7:00pm <br> Industrious - Seattle <br><br> Cracking the Coding Interview - Portland  <br> 6:30pm - 8:30pm <br> CENTRL - Eastside
- 26th | There are no events today. LaunchCode Northwest is at a Summit.
+ 26th | There are no events today. LaunchCode Northwest is at a summit.
 
 
  ### May 2018
- ### April 2018
+
  May |  |
  --------|-----------
  1st | Cracking the Coding Interview - Seattle <br> 5:00pm - 7:00pm <br> Industrious - Seattle <br><br> Cracking the Coding Interview - Portland  <br> 6:30pm - 8:30pm <br> CENTRL - Eastside
